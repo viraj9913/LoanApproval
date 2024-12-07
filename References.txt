@@ -1,0 +1,13 @@
+Household Income:
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/householddisposableincomeandinequality
+Unemployment rate:
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms
+
+python library faker to generate fake data
+
+household income spending
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/qwnd/bb
+
+
+loan data:
+https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
